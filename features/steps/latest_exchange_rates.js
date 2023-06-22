@@ -7,7 +7,7 @@ let {setDefaultTimeout} = require('@cucumber/cucumber');
 
 setDefaultTimeout(60 * 1000);
 
-const APILAYER_API_KEY = 'YOUR_API_KEY';
+const APILAYER_API_KEY = 'axjJPl8nqDK3H6zvV2XXnfBpAXempyYp';
 
 // Some example currency that will not be used in features
 const SAMPLE_CURRENCY = 'AED';
