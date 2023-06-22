@@ -1,10 +1,10 @@
 {
-  "name": "rekrutacja-iceo",
+  "name": "iceo-recruitment-task",
   "version": "1.0.0",
-  "description": "",
+  "description": "A recruitment task for ICEO",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cucumber-js features/"
   },
   "author": "Michał Szymański",
   "license": "ISC",
